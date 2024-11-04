@@ -1,0 +1,17 @@
+[
+    [
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 0.01},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2}
+    ],
+    [
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 0.01},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2}
+    ],
+    [
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 0.01},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2},
+        {"Zones" : ["RED"], "Loss Count" : 1, "Chip Value" : 2}
+    ]
+]
