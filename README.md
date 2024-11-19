@@ -31,8 +31,6 @@
 -Roulette Bet Size
  Place the chips on the table for the preferred bet. You can bet on one number or on up to all of them. Keep in mind that if you want to use a roulette betting strategy, you will have to bet on the most outside bets. Click once to place one chip.
 
--Roulette Place Bet
- Once you are happy with the bets on the table, you just have to press the spin button, located in the bottom right corner. This will spin the wheel and the winning number will be determined in a few seconds. Payouts are granted automatically if you win.
 
 ## License
 Licesed under the MIT License
